@@ -21,7 +21,7 @@ public class Ticket {
         }
 
         public String getName() {
-            return name
+            return name;
 
         }
     }
